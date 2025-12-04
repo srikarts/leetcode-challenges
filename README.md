@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikarts/leetcode-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srikarts/leetcode-challenges/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 <!---LeetCode Topics End-->
