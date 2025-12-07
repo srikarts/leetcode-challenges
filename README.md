@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/srikarts/leetcode-challenges/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/srikarts/leetcode-challenges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srikarts/leetcode-challenges/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
