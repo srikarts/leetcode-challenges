@@ -3,6 +3,7 @@ class Solution:
         temp = [1]
         for i in range(1,17):
             temp.append(pow(3,i))
+        print(temp)
         
         for i in range(1,len(temp)+1):
             for j in combinations(temp,i):
