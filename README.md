@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikarts/leetcode-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0506-relative-ranks](https://github.com/srikarts/leetcode-challenges/tree/master/0506-relative-ranks) |
 | [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/srikarts/leetcode-challenges/tree/master/0506-relative-ranks) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/srikarts/leetcode-challenges/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
