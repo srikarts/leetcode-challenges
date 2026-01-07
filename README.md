@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/srikarts/leetcode-challenges/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikarts/leetcode-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/srikarts/leetcode-challenges/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srikarts/leetcode-challenges/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/srikarts/leetcode-challenges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
