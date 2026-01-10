@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikarts/leetcode-challenges/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/srikarts/leetcode-challenges/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
