@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikarts/leetcode-challenges/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srikarts/leetcode-challenges/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -116,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/srikarts/leetcode-challenges/tree/master/1441-build-an-array-with-stack-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
