@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srikarts/leetcode-challenges/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/srikarts/leetcode-challenges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srikarts/leetcode-challenges/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
 | [3270-find-the-key-of-the-numbers](https://github.com/srikarts/leetcode-challenges/tree/master/3270-find-the-key-of-the-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/srikarts/leetcode-challenges/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
