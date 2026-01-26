@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srikarts/leetcode-challenges/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/srikarts/leetcode-challenges/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikarts/leetcode-challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srikarts/leetcode-challenges/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srikarts/leetcode-challenges/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/srikarts/leetcode-challenges/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/srikarts/leetcode-challenges/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srikarts/leetcode-challenges/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srikarts/leetcode-challenges/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srikarts/leetcode-challenges/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
