@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikarts/leetcode-challenges/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srikarts/leetcode-challenges/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/srikarts/leetcode-challenges/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srikarts/leetcode-challenges/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srikarts/leetcode-challenges/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/srikarts/leetcode-challenges/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
