@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikarts/leetcode-challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srikarts/leetcode-challenges/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srikarts/leetcode-challenges/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/srikarts/leetcode-challenges/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikarts/leetcode-challenges/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srikarts/leetcode-challenges/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srikarts/leetcode-challenges/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/srikarts/leetcode-challenges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srikarts/leetcode-challenges/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
 ## Binary Search
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srikarts/leetcode-challenges/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikarts/leetcode-challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srikarts/leetcode-challenges/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/srikarts/leetcode-challenges/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/srikarts/leetcode-challenges/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/srikarts/leetcode-challenges/tree/master/1833-maximum-ice-cream-bars) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
