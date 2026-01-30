@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2974-minimum-number-game](https://github.com/srikarts/leetcode-challenges/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/srikarts/leetcode-challenges/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srikarts/leetcode-challenges/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Greedy
 |  |
 | ------- |
