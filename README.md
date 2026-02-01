@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2974-minimum-number-game](https://github.com/srikarts/leetcode-challenges/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srikarts/leetcode-challenges/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/srikarts/leetcode-challenges/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srikarts/leetcode-challenges/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2363-merge-similar-items](https://github.com/srikarts/leetcode-challenges/tree/master/2363-merge-similar-items) |
 | [2974-minimum-number-game](https://github.com/srikarts/leetcode-challenges/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srikarts/leetcode-challenges/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/srikarts/leetcode-challenges/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srikarts/leetcode-challenges/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srikarts/leetcode-challenges/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
