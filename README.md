@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srikarts/leetcode-challenges/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/srikarts/leetcode-challenges/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/srikarts/leetcode-challenges/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/srikarts/leetcode-challenges/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/srikarts/leetcode-challenges/tree/master/1441-build-an-array-with-stack-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2974-minimum-number-game](https://github.com/srikarts/leetcode-challenges/tree/master/2974-minimum-number-game) |
+| [3379-transformed-array](https://github.com/srikarts/leetcode-challenges/tree/master/3379-transformed-array) |
 ## Matrix
 |  |
 | ------- |
