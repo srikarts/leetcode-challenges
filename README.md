@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/srikarts/leetcode-challenges/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/srikarts/leetcode-challenges/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
+| [0989-add-to-array-form-of-integer](https://github.com/srikarts/leetcode-challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1122-relative-sort-array](https://github.com/srikarts/leetcode-challenges/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/srikarts/leetcode-challenges/tree/master/1200-minimum-absolute-difference) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srikarts/leetcode-challenges/tree/master/0066-plus-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0989-add-to-array-form-of-integer](https://github.com/srikarts/leetcode-challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srikarts/leetcode-challenges/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/srikarts/leetcode-challenges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
