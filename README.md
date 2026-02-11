@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/srikarts/leetcode-challenges/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikarts/leetcode-challenges/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srikarts/leetcode-challenges/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/srikarts/leetcode-challenges/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
