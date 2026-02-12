@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/srikarts/leetcode-challenges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/srikarts/leetcode-challenges/tree/master/1837-sum-of-digits-in-base-k) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/srikarts/leetcode-challenges/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2396-strictly-palindromic-number](https://github.com/srikarts/leetcode-challenges/tree/master/2396-strictly-palindromic-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/srikarts/leetcode-challenges/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
 | [3270-find-the-key-of-the-numbers](https://github.com/srikarts/leetcode-challenges/tree/master/3270-find-the-key-of-the-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/srikarts/leetcode-challenges/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/srikarts/leetcode-challenges/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/srikarts/leetcode-challenges/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Ordered Set
 |  |
