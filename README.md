@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srikarts/leetcode-challenges/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/srikarts/leetcode-challenges/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/srikarts/leetcode-challenges/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0989-add-to-array-form-of-integer](https://github.com/srikarts/leetcode-challenges/tree/master/0989-add-to-array-form-of-integer) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srikarts/leetcode-challenges/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0459-repeated-substring-pattern](https://github.com/srikarts/leetcode-challenges/tree/master/0459-repeated-substring-pattern) |
 | [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srikarts/leetcode-challenges/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/srikarts/leetcode-challenges/tree/master/1441-build-an-array-with-stack-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikarts/leetcode-challenges/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2974-minimum-number-game](https://github.com/srikarts/leetcode-challenges/tree/master/2974-minimum-number-game) |
