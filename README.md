@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srikarts/leetcode-challenges/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/srikarts/leetcode-challenges/tree/master/0190-reverse-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/srikarts/leetcode-challenges/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/srikarts/leetcode-challenges/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
