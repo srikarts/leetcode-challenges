@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srikarts/leetcode-challenges/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikarts/leetcode-challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0219-contains-duplicate-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0506-relative-ranks](https://github.com/srikarts/leetcode-challenges/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/srikarts/leetcode-challenges/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0929-unique-email-addresses](https://github.com/srikarts/leetcode-challenges/tree/master/0929-unique-email-addresses) |
 | [1122-relative-sort-array](https://github.com/srikarts/leetcode-challenges/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srikarts/leetcode-challenges/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/srikarts/leetcode-challenges/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/srikarts/leetcode-challenges/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/srikarts/leetcode-challenges/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
