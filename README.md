@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srikarts/leetcode-challenges/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/srikarts/leetcode-challenges/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/srikarts/leetcode-challenges/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/srikarts/leetcode-challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srikarts/leetcode-challenges/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srikarts/leetcode-challenges/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srikarts/leetcode-challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/srikarts/leetcode-challenges/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/srikarts/leetcode-challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/srikarts/leetcode-challenges/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srikarts/leetcode-challenges/tree/master/1561-maximum-number-of-coins-you-can-get) |
