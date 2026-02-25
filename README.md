@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/srikarts/leetcode-challenges/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/srikarts/leetcode-challenges/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srikarts/leetcode-challenges/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/srikarts/leetcode-challenges/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/srikarts/leetcode-challenges/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/srikarts/leetcode-challenges/tree/master/2399-check-distances-between-same-letters) |
 | [3227-vowels-game-in-a-string](https://github.com/srikarts/leetcode-challenges/tree/master/3227-vowels-game-in-a-string) |
