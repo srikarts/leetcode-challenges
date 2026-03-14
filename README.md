@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/srikarts/leetcode-challenges/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/srikarts/leetcode-challenges/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/srikarts/leetcode-challenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3827-count-monobit-integers](https://github.com/srikarts/leetcode-challenges/tree/master/3827-count-monobit-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/srikarts/leetcode-challenges/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3827-count-monobit-integers](https://github.com/srikarts/leetcode-challenges/tree/master/3827-count-monobit-integers) |
 ## String Matching
 |  |
 | ------- |
