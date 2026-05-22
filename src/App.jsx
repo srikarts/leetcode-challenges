@@ -43,7 +43,8 @@ const AuthenticatedApp = () => {
 
   return (
     <Routes>
-      <Route element={<AppLayout />}>
+      <Route element={<AppLayout />} >
+
         <Route path="/" element={<Dashboard />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/plans" element={<Plans />} />
@@ -61,14 +62,14 @@ const AuthenticatedApp = () => {
 
 function App() {
   return (
-    <AuthProvider>
-      <QueryClientProvider client={queryClientInstance}>
-        <Router>
+    <QueryClientProvider client={queryClientInstance}>
+      <Router>
+        <AuthProvider>
           <AuthenticatedApp />
-        </Router>
+        </AuthProvider>
         <Toaster />
-      </QueryClientProvider>
-    </AuthProvider>
+      </Router>
+    </QueryClientProvider>
   )
 }
 
