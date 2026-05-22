@@ -1,0 +1,38 @@
+{
+  "name": "Comment",
+  "type": "object",
+  "properties": {
+    "plan_id": {
+      "type": "string"
+    },
+    "target_type": {
+      "type": "string",
+      "enum": [
+        "plan",
+        "table",
+        "field",
+        "migration"
+      ]
+    },
+    "target_id": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string"
+    },
+    "author_email": {
+      "type": "string"
+    },
+    "author_name": {
+      "type": "string"
+    },
+    "resolved": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "required": [
+    "plan_id",
+    "content"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "name": "DBPlan",
+  "type": "object",
+  "properties": {
+    "project_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "version": {
+      "type": "number",
+      "default": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "ai_analyzing",
+        "plan_ready",
+        "dba_review",
+        "dba_approved",
+        "migration_generated",
+        "pending_approval",
+        "approved",
+        "scheduled",
+        "executing",
+        "completed",
+        "rolled_back",
+        "rejected"
+      ],
+      "default": "draft"
+    },
+    "tables": {
+      "type": "array",
+      "description": "Array of table definitions",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "fields": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                },
+                "nullable": {
+                  "type": "boolean"
+                },
+                "primary_key": {
+                  "type": "boolean"
+                },
+                "unique": {
+                  "type": "boolean"
+                },
+                "default_value": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "x": {
+            "type": "number"
+          },
+          "y": {
+            "type": "number"
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "from_table": {
+            "type": "string"
+          },
+          "from_field": {
+            "type": "string"
+          },
+          "to_table": {
+            "type": "string"
+          },
+          "to_field": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "one_to_one",
+              "one_to_many",
+              "many_to_many"
+            ]
+          }
+        }
+      }
+    },
+    "ddl_sql": {
+      "type": "string"
+    },
+    "prisma_schema": {
+      "type": "string"
+    },
+    "up_migration_sql": {
+      "type": "string"
+    },
+    "down_migration_sql": {
+      "type": "string"
+    },
+    "validation_report": {
+      "type": "object",
+      "properties": {
+        "score": {
+          "type": "number"
+        },
+        "issues": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "passed_checks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "dba_notes": {
+      "type": "string"
+    },
+    "approval_notes": {
+      "type": "string"
+    },
+    "rejection_reason": {
+      "type": "string"
+    },
+    "scheduled_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "target_environment": {
+      "type": "string"
+    },
+    "approved_by": {
+      "type": "string"
+    },
+    "executed_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": [
+    "project_id",
+    "title"
+  ]
+}

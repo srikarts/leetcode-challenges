@@ -1,0 +1,37 @@
+{
+  "name": "InputArtifact",
+  "type": "object",
+  "properties": {
+    "plan_id": {
+      "type": "string"
+    },
+    "project_id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "requirements",
+        "frontend_code",
+        "api_payload",
+        "existing_schema",
+        "document",
+        "other"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string"
+    },
+    "file_url": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "plan_id",
+    "type",
+    "title"
+  ]
+}
